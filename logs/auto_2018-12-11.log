@@ -1,0 +1,1496 @@
+ Tue, 11 Dec 2018 15:53:15  INFO logger.py <module> [ line:39 ] 333
+ Tue, 11 Dec 2018 15:55:48  INFO conftest.py page [ line:15 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 15:55:54.881861,等待时长：0
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 15:55:55.429927,等待时长：0
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 15:55:55.565678,等待时长：0
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 15:55:55.686297,等待时长：0
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 15:55:55  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 15:55:55  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 15:55:56  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 15:55:55.779644,等待时长：1
+ Tue, 11 Dec 2018 15:55:56  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 15:55:56  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 15:55:56  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 15:55:56.831578,等待时长：0
+ Tue, 11 Dec 2018 15:55:56  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 15:55:56  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 15:55:56  INFO test_login.py test_login_success [ line:24 ] 登录成功
+ Tue, 11 Dec 2018 15:55:56  INFO conftest.py page [ line:32 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 15:59:40  INFO conftest.py page [ line:15 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 15:59:43.458742,等待时长：0
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 15:59:43.620736,等待时长：0
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 15:59:43.785564,等待时长：0
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 15:59:43.921197,等待时长：0
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 15:59:43  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 15:59:44  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 15:59:45  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 15:59:44.010539,等待时长：1
+ Tue, 11 Dec 2018 15:59:45  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 15:59:45  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 15:59:45  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 15:59:45.058138,等待时长：0
+ Tue, 11 Dec 2018 15:59:45  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 15:59:45  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 15:59:45  INFO test_login.py test_login_success [ line:24 ] 登录成功
+ Tue, 11 Dec 2018 15:59:45  INFO conftest.py page [ line:32 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:15:11  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:15:17.532335,等待时长：0
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:15:17.748834,等待时长：0
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:15:17.949998,等待时长：0
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:15:17  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:15:18  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:15:18  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:15:18  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:15:18.075652,等待时长：0
+ Tue, 11 Dec 2018 16:15:18  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:15:18  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:15:18  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:15:19  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:15:18.165537,等待时长：1
+ Tue, 11 Dec 2018 16:15:19  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:15:19  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:15:19  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:15:19.224630,等待时长：0
+ Tue, 11 Dec 2018 16:15:19  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:15:19  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:15:19  INFO test_login.py test_login_success [ line:24 ] 登录成功
+ Tue, 11 Dec 2018 16:15:19  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:15:42  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:15:46.970636,等待时长：0
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:15:47.095615,等待时长：0
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:15:47.248940,等待时长：0
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:15:47.374817,等待时长：0
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:15:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:15:47  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:15:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:15:47.462542,等待时长：2
+ Tue, 11 Dec 2018 16:15:49  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:15:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:15:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:15:49.550956,等待时长：0
+ Tue, 11 Dec 2018 16:15:49  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:15:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:15:49  INFO test_login.py test_login_success [ line:24 ] 登录成功
+ Tue, 11 Dec 2018 16:15:49  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:16:36  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:16:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:16:40.238276,等待时长：0
+ Tue, 11 Dec 2018 16:16:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:16:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:16:40.776980,等待时长：0
+ Tue, 11 Dec 2018 16:16:40  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:16:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:16:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:16:40.970808,等待时长：0
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:16:41.099871,等待时长：0
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:16:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:16:41  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:16:42  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:16:41.188785,等待时长：1
+ Tue, 11 Dec 2018 16:16:42  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:16:42  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:16:42  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:16:42.236731,等待时长：0
+ Tue, 11 Dec 2018 16:16:42  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:16:42  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:16:42  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-16-16-42.png
+ Tue, 11 Dec 2018 16:16:42  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:16:45  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:16:48  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:16:48.803090,等待时长：0
+ Tue, 11 Dec 2018 16:16:48  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:16:48  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:16:48.922790,等待时长：0
+ Tue, 11 Dec 2018 16:16:48  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:16:48  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:16:49.086522,等待时长：0
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:16:49.198177,等待时长：0
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:16:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:16:49  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:16:50  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:16:49.285914,等待时长：1
+ Tue, 11 Dec 2018 16:16:50  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:16:50  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:16:50  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:16:50.847993,等待时长：0
+ Tue, 11 Dec 2018 16:16:50  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:16:50  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:16:51  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-16-16-50.png
+ Tue, 11 Dec 2018 16:16:51  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:16:53  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:16:58.406422,等待时长：0
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:16:59.000723,等待时长：0
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:16:59.160080,等待时长：0
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:16:59.275283,等待时长：0
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:16:59  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:16:59  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:17:00  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:16:59.359687,等待时长：1
+ Tue, 11 Dec 2018 16:17:00  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:17:00  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:17:00  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:17:00.922556,等待时长：0
+ Tue, 11 Dec 2018 16:17:00  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:17:00  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:17:01  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-16-17-00.png
+ Tue, 11 Dec 2018 16:17:01  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:42:26  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:42:33.040677,等待时长：0
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:42:33.229400,等待时长：0
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:42:33.389345,等待时长：0
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:42:33.510675,等待时长：0
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:42:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:42:33  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:42:34  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:42:33.598495,等待时长：1
+ Tue, 11 Dec 2018 16:42:34  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:42:34  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:42:34  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:42:34.649219,等待时长：0
+ Tue, 11 Dec 2018 16:42:34  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:42:34  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:42:35  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-16-42-34.png
+ Tue, 11 Dec 2018 16:42:35  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:42:35  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:42:39.129263,等待时长：0
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:42:39.287812,等待时长：0
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:42:39.451920,等待时长：0
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:42:39.594331,等待时长：0
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:42:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:42:39  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:42:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:42:39.702764,等待时长：1
+ Tue, 11 Dec 2018 16:42:40  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:42:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:42:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:42:40.757116,等待时长：0
+ Tue, 11 Dec 2018 16:42:40  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:42:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:42:41  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-16-42-40.png
+ Tue, 11 Dec 2018 16:42:41  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 16:42:41  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 16:42:45  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:42:45.777699,等待时长：0
+ Tue, 11 Dec 2018 16:42:45  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:42:45  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 16:42:45.897117,等待时长：0
+ Tue, 11 Dec 2018 16:42:45  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 16:42:45  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 16:42:46.038844,等待时长：0
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 16:42:46.159527,等待时长：0
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 16:42:46  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 16:42:46  INFO test_login.py test_login_success [ line:19 ] 开始断言
+ Tue, 11 Dec 2018 16:42:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:42:46.247557,等待时长：1
+ Tue, 11 Dec 2018 16:42:47  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 16:42:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:42:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 16:42:47.298950,等待时长：0
+ Tue, 11 Dec 2018 16:42:47  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 16:42:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 16:42:47  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-16-42-47.png
+ Tue, 11 Dec 2018 16:42:47  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:01:46  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:01:53.004945,等待时长：0
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:01:53.199510,等待时长：0
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:01:53.345044,等待时长：0
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:01:53.529025,等待时长：0
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:01:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:01:53  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:01:54  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:01:53.618765,等待时长：1
+ Tue, 11 Dec 2018 17:01:54  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:01:54  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:01:54  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:01:54.667082,等待时长：0
+ Tue, 11 Dec 2018 17:01:54  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:01:54  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:01:55  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-01-54.png
+ Tue, 11 Dec 2018 17:01:55  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:01:55  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:02:00.277955,等待时长：0
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:02:00.397778,等待时长：0
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:02:00.546072,等待时长：0
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:02:00.662923,等待时长：0
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:02:00  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:02:00  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:02:02  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:02:00.748179,等待时长：1
+ Tue, 11 Dec 2018 17:02:02  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:02:02  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:02:02  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:02:02.315974,等待时长：0
+ Tue, 11 Dec 2018 17:02:02  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:02:02  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:02:02  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-02-02.png
+ Tue, 11 Dec 2018 17:02:03  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:02:03  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:02:07.092936,等待时长：0
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:02:07.212163,等待时长：0
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:02:07.353293,等待时长：0
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:02:07.467857,等待时长：0
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:02:07  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:02:07  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:02:08  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:02:07.558862,等待时长：1
+ Tue, 11 Dec 2018 17:02:08  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:02:08  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:02:08  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:02:08.615975,等待时长：0
+ Tue, 11 Dec 2018 17:02:08  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:02:08  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:02:09  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-02-08.png
+ Tue, 11 Dec 2018 17:02:09  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:03:18  INFO conftest.py login [ line:70 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:23.385813,等待时长：0
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:23.547977,等待时长：0
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:03:23.738365,等待时长：0
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:03:23.857380,等待时长：0
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:03:23  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:23  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:29.143678,等待时长：0
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:29.252562,等待时长：0
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:03:29.444810,等待时长：0
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:03:29.570197,等待时长：0
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:03:29  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:29  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:03:30  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:03:29.656767,等待时长：1
+ Tue, 11 Dec 2018 17:03:30  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:03:30  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:03:30  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:03:30.702598,等待时长：0
+ Tue, 11 Dec 2018 17:03:30  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:03:30  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:03:31  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-03-30.png
+ Tue, 11 Dec 2018 17:03:31  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:03:31  INFO conftest.py login [ line:88 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:03:31  INFO conftest.py login [ line:70 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:35.179553,等待时长：0
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:35.304299,等待时长：0
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:03:35.456436,等待时长：0
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:03:35.572899,等待时长：0
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:03:35  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:35  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:38.901538,等待时长：0
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:39.020447,等待时长：0
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:03:39.196381,等待时长：0
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:03:39.312995,等待时长：0
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:03:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:39  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:03:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:03:39.406736,等待时长：1
+ Tue, 11 Dec 2018 17:03:40  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:03:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:03:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:03:40.455226,等待时长：0
+ Tue, 11 Dec 2018 17:03:40  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:03:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:03:40  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-03-40.png
+ Tue, 11 Dec 2018 17:03:40  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:03:41  INFO conftest.py login [ line:88 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:03:41  INFO conftest.py login [ line:70 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:44.209625,等待时长：0
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:44.387107,等待时长：0
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:03:44.578741,等待时长：0
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:03:44.704685,等待时长：0
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:03:44  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:44  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:50.523127,等待时长：0
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:03:51.067288,等待时长：0
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:03:51.225367,等待时长：0
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:03:51.338299,等待时长：0
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:03:51  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:03:51  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:03:52  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:03:51.426766,等待时长：1
+ Tue, 11 Dec 2018 17:03:52  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:03:52  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:03:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:03:52.989344,等待时长：0
+ Tue, 11 Dec 2018 17:03:53  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:03:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:03:53  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-03-53.png
+ Tue, 11 Dec 2018 17:03:53  INFO conftest.py page [ line:64 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:03:53  INFO conftest.py login [ line:88 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:37:08  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:37:19  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:37:19.667548,等待时长：0
+ Tue, 11 Dec 2018 17:37:19  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:37:19  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:37:19.874254,等待时长：0
+ Tue, 11 Dec 2018 17:37:19  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:37:19  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:37:20.035187,等待时长：0
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:37:20.157056,等待时长：0
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:37:20  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:37:20  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:37:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:37:20.241474,等待时长：1
+ Tue, 11 Dec 2018 17:37:21  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:37:21  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:37:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:37:21.805268,等待时长：0
+ Tue, 11 Dec 2018 17:37:21  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:37:21  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:37:22  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-37-21.png
+ Tue, 11 Dec 2018 17:37:22  INFO conftest.py page [ line:60 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 17:38:40  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:38:44.600028,等待时长：0
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 17:38:44.711803,等待时长：0
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 17:38:44.873991,等待时长：0
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 17:38:44  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:38:45  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 17:38:44.992164,等待时长：0
+ Tue, 11 Dec 2018 17:38:45  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 17:38:45  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 17:38:45  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 17:38:46  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:38:45.077360,等待时长：1
+ Tue, 11 Dec 2018 17:38:46  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 17:38:46  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:38:46  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 17:38:46.123310,等待时长：0
+ Tue, 11 Dec 2018 17:38:46  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 17:38:46  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 17:38:46  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-17-38-46.png
+ Tue, 11 Dec 2018 17:38:46  INFO conftest.py page [ line:60 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 18:01:40  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111ab5208>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/f432b9ec726ee248e8a238fb70e61c38
+ Tue, 11 Dec 2018 18:01:40  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111b0a048>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/f432b9ec726ee248e8a238fb70e61c38
+ Tue, 11 Dec 2018 18:01:40  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111b0a1d0>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/f432b9ec726ee248e8a238fb70e61c38
+ Tue, 11 Dec 2018 19:04:15  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:05:34  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:05:38.903542,等待时长：0
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:05:39.067015,等待时长：0
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:05:39.250820,等待时长：0
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:05:39.373341,等待时长：0
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:05:39  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:05:39  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:05:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:05:39.461164,等待时长：1
+ Tue, 11 Dec 2018 19:05:40  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:05:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:05:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:05:40.512008,等待时长：0
+ Tue, 11 Dec 2018 19:05:40  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:05:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:05:41  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-05-40.png
+ Tue, 11 Dec 2018 19:06:36  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:06:40.204922,等待时长：0
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:06:40.338032,等待时长：0
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:06:40.571176,等待时长：0
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:06:40.692346,等待时长：0
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:06:40  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:06:40  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:06:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:06:40.788859,等待时长：1
+ Tue, 11 Dec 2018 19:06:41  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:06:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:06:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:06:41.843743,等待时长：0
+ Tue, 11 Dec 2018 19:06:41  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:06:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:06:42  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-06-41.png
+ Tue, 11 Dec 2018 19:09:05  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:09:08.522867,等待时长：0
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:09:08.690914,等待时长：0
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:09:08.849384,等待时长：0
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:09:08.970142,等待时长：0
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:09:08  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:09:09  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:09:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:09:09.055440,等待时长：1
+ Tue, 11 Dec 2018 19:09:10  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:09:10  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:09:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:09:10.105991,等待时长：0
+ Tue, 11 Dec 2018 19:09:10  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:09:10  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:09:10  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-09-10.png
+ Tue, 11 Dec 2018 19:09:10  INFO conftest.py page [ line:60 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:12:20  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:12:24.017068,等待时长：0
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:12:24.133130,等待时长：0
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:12:24.306896,等待时长：0
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:12:24.428615,等待时长：0
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:12:24  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:12:24  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:12:25  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:12:24.513403,等待时长：1
+ Tue, 11 Dec 2018 19:12:25  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:12:25  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:12:25  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:12:25.566761,等待时长：0
+ Tue, 11 Dec 2018 19:12:25  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:12:25  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:12:26  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-12-25.png
+ Tue, 11 Dec 2018 19:12:26  INFO conftest.py page [ line:60 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:14:09.399630,等待时长：0
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:14:09.559445,等待时长：0
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:14:09.690891,等待时长：0
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:14:09.797634,等待时长：0
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:14:09  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:14:09  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:14:40  ERROR basepage.py wait_eleVisible [ line:25 ] 等待元素可见异常
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Tue, 11 Dec 2018 19:14:40  INFO basepage.py _save_screenShot [ line:216 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/个人中心页面_2018-12-11-19-14-40.png
+ Tue, 11 Dec 2018 19:14:40  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-14-40.png
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:14:53.337940,等待时长：0
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:14:53.506021,等待时长：0
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:14:53.627444,等待时长：0
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:14:53.736623,等待时长：0
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:14:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:14:53  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:15:23  ERROR basepage.py wait_eleVisible [ line:25 ] 等待元素可见异常
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Tue, 11 Dec 2018 19:15:24  INFO basepage.py _save_screenShot [ line:216 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/个人中心页面_2018-12-11-19-15-23.png
+ Tue, 11 Dec 2018 19:15:24  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-15-24.png
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:15:48.966402,等待时长：0
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:15:49.128853,等待时长：0
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:15:49.255303,等待时长：0
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:15:49.372667,等待时长：0
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:15:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:15:49  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:16:19  ERROR basepage.py wait_eleVisible [ line:25 ] 等待元素可见异常
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+ Tue, 11 Dec 2018 19:16:20  INFO basepage.py _save_screenShot [ line:216 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/个人中心页面_2018-12-11-19-16-19.png
+ Tue, 11 Dec 2018 19:16:20  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-16-20.png
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:17:16.110149,等待时长：0
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:17:16.244020,等待时长：0
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:17:16.419256,等待时长：0
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:17:16.534965,等待时长：0
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:17:16  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:17:16  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:17:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:17:16.621367,等待时长：1
+ Tue, 11 Dec 2018 19:17:17  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:17:17  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:17:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:17:17.673735,等待时长：0
+ Tue, 11 Dec 2018 19:17:17  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:17:17  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:17:18  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-17-17.png
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:17:32.958450,等待时长：0
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:17:33.076264,等待时长：0
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:17:33.213846,等待时长：0
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:17:33.332341,等待时长：0
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:17:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:17:33  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:17:34  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:17:33.418469,等待时长：1
+ Tue, 11 Dec 2018 19:17:34  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:17:34  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:17:34  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:17:34.469873,等待时长：0
+ Tue, 11 Dec 2018 19:17:34  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:17:34  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:17:34  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-17-34.png
+ Tue, 11 Dec 2018 19:21:28  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:21:31.370450,等待时长：0
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:21:31.489599,等待时长：0
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:21:31.636524,等待时长：0
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:21:31.755968,等待时长：0
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:21:31  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:21:31  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:21:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:21:31.844407,等待时长：1
+ Tue, 11 Dec 2018 19:21:32  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:21:32  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:21:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:21:32.894273,等待时长：0
+ Tue, 11 Dec 2018 19:21:32  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:21:32  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:21:33  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-21-32.png
+ Tue, 11 Dec 2018 19:21:33  INFO conftest.py page [ line:60 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:22:43  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:22:47.251322,等待时长：0
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:22:47.393759,等待时长：0
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:22:47.537560,等待时长：0
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:22:47.652068,等待时长：0
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:22:47  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:22:47  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:22:48  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:22:47.738574,等待时长：1
+ Tue, 11 Dec 2018 19:22:48  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:22:48  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:22:48  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:22:48.791630,等待时长：0
+ Tue, 11 Dec 2018 19:22:48  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:22:48  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:22:49  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-22-48.png
+ Tue, 11 Dec 2018 19:22:49  INFO conftest.py page [ line:70 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:24:38  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:24:41.666828,等待时长：0
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:24:41.795503,等待时长：0
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:24:41.947039,等待时长：0
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:24:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:24:42  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:24:42  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:24:42  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:24:42.066433,等待时长：0
+ Tue, 11 Dec 2018 19:24:42  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:24:42  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:24:42  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:24:43  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:24:42.154198,等待时长：1
+ Tue, 11 Dec 2018 19:24:43  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:24:43  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:24:43  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:24:43.203538,等待时长：0
+ Tue, 11 Dec 2018 19:24:43  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:24:43  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:24:43  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-24-43.png
+ Tue, 11 Dec 2018 19:24:43  INFO conftest.py page [ line:70 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:27:35  INFO conftest.py page [ line:47 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:27:41.269146,等待时长：0
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:27:41.387953,等待时长：0
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:27:41.535115,等待时长：0
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:27:41.652721,等待时长：0
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:27:41  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:27:41  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:27:42  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:27:41.743257,等待时长：1
+ Tue, 11 Dec 2018 19:27:42  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:27:42  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:27:42  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:27:42.794761,等待时长：0
+ Tue, 11 Dec 2018 19:27:42  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:27:42  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:27:43  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-27-42.png
+ Tue, 11 Dec 2018 19:27:43  INFO conftest.py page [ line:57 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:30:31.436179,等待时长：0
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:30:31.553967,等待时长：0
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:30:31.695883,等待时长：0
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:30:31.817927,等待时长：0
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:30:31  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:30:31  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:30:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:30:31.908354,等待时长：1
+ Tue, 11 Dec 2018 19:30:32  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:30:32  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:30:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:30:32.959577,等待时长：0
+ Tue, 11 Dec 2018 19:30:32  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:30:32  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:30:33  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-30-33.png
+ Tue, 11 Dec 2018 19:32:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:32:09.797572,等待时长：0
+ Tue, 11 Dec 2018 19:32:09  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:32:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:32:09.917982,等待时长：0
+ Tue, 11 Dec 2018 19:32:09  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:32:09  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:32:10.072127,等待时长：0
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:32:10.188207,等待时长：0
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:32:10  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:32:10  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:32:11  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:32:10.276280,等待时长：1
+ Tue, 11 Dec 2018 19:32:11  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:32:11  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:32:11  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:32:11.328194,等待时长：0
+ Tue, 11 Dec 2018 19:32:11  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:32:11  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:32:11  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-32-11.png
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:34:16.909949,等待时长：0
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:34:17.033580,等待时长：0
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:34:17.172891,等待时长：0
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:34:17.291471,等待时长：0
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:34:17  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:34:17  INFO test_01.py test_login_success [ line:23 ] 开始断言
+ Tue, 11 Dec 2018 19:34:18  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:34:17.389415,等待时长：1
+ Tue, 11 Dec 2018 19:34:18  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:34:18  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:34:18  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:34:18.444822,等待时长：0
+ Tue, 11 Dec 2018 19:34:18  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:34:18  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:34:19  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-34-18.png
+ Tue, 11 Dec 2018 19:35:29  INFO conftest.py page [ line:24 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:35:32.307419,等待时长：0
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:35:32.425724,等待时长：0
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:35:32.572933,等待时长：0
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:35:32.691876,等待时长：0
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:35:32  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:35:32  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:35:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:35:32.780204,等待时长：1
+ Tue, 11 Dec 2018 19:35:33  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:35:33  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:35:33  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:35:33.830980,等待时长：0
+ Tue, 11 Dec 2018 19:35:33  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:35:33  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:35:34  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-35-33.png
+ Tue, 11 Dec 2018 19:35:34  INFO conftest.py page [ line:34 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:37:00  INFO conftest.py page [ line:24 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:37:03.976626,等待时长：0
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:37:04.096570,等待时长：0
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:37:04.240625,等待时长：0
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:37:04.359254,等待时长：0
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:37:04  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:37:04  INFO test_login.py test_login_success [ line:21 ] 开始断言
+ Tue, 11 Dec 2018 19:37:05  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:37:04.450876,等待时长：1
+ Tue, 11 Dec 2018 19:37:05  INFO basepage.py get_text [ line:177 ] 个人中心页面：获取元素xpath=//span[text()="个人中心"] 的文本内容。
+ Tue, 11 Dec 2018 19:37:05  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:37:05  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="个人中心"],起始时间：2018-12-11 19:37:05.498365,等待时长：0
+ Tue, 11 Dec 2018 19:37:05  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[text()="个人中心"] 到可见区域
+ Tue, 11 Dec 2018 19:37:05  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="个人中心"]
+ Tue, 11 Dec 2018 19:37:06  INFO common.py save_screenShot [ line:14 ] 截图成功,路径为：/Users/lx/Desktop/workspace/gti2/test0920/ScreenShot/登录页面_2018-12-11-19-37-05.png
+ Tue, 11 Dec 2018 19:37:06  INFO conftest.py page [ line:36 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:42:45  INFO conftest.py login [ line:40 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:42:48  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:42:48.711543,等待时长：0
+ Tue, 11 Dec 2018 19:42:48  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:42:48  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:42:48.837527,等待时长：0
+ Tue, 11 Dec 2018 19:42:48  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:42:48  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:42:48  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:42:48.975817,等待时长：0
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:42:49.089169,等待时长：0
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:42:49  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:42:51  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:42:51  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[@class="cellTitle"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:42:51  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[@class="cellTitle"]//span[text()="地址管理"],起始时间：2018-12-11 19:42:51.180245,等待时长：0
+ Tue, 11 Dec 2018 19:42:51  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[@class="cellTitle"]//span[text()="地址管理"] 到可见区域
+ Tue, 11 Dec 2018 19:42:51  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[@class="cellTitle"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:42:53  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:42:53  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[@class="btn-bottom"]
+ Tue, 11 Dec 2018 19:42:53  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[@class="btn-bottom"],起始时间：2018-12-11 19:42:53.281771,等待时长：0
+ Tue, 11 Dec 2018 19:42:53  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[@class="btn-bottom"] 到可见区域
+ Tue, 11 Dec 2018 19:42:53  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[@class="btn-bottom"]
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人姓名"]
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入收件人姓名"],起始时间：2018-12-11 19:42:55.385877,等待时长：0
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//input[@placeholder="请输入收件人姓名"] 到可见区域
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人姓名"]
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人手机号码"]
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入收件人手机号码"],起始时间：2018-12-11 19:42:55.485531,等待时长：0
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//input[@placeholder="请输入收件人手机号码"] 到可见区域
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人手机号码"]
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[text()=" 请输入地区 "]
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[text()=" 请输入地区 "],起始时间：2018-12-11 19:42:55.602878,等待时长：0
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[text()=" 请输入地区 "] 到可见区域
+ Tue, 11 Dec 2018 19:42:55  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[text()=" 请输入地区 "]
+ Tue, 11 Dec 2018 19:42:57  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:42:57  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="上海市"]
+ Tue, 11 Dec 2018 19:42:57  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="上海市"],起始时间：2018-12-11 19:42:57.699356,等待时长：0
+ Tue, 11 Dec 2018 19:42:57  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//span[text()="上海市"] 到可见区域
+ Tue, 11 Dec 2018 19:42:57  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="上海市"]
+ Tue, 11 Dec 2018 19:42:59  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:42:59  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[text()=" 市区 "]/following-sibling::ul//span[1]
+ Tue, 11 Dec 2018 19:42:59  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[text()=" 市区 "]/following-sibling::ul//span[1],起始时间：2018-12-11 19:42:59.786343,等待时长：0
+ Tue, 11 Dec 2018 19:42:59  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[text()=" 市区 "]/following-sibling::ul//span[1] 到可见区域
+ Tue, 11 Dec 2018 19:42:59  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[text()=" 市区 "]/following-sibling::ul//span[1]
+ Tue, 11 Dec 2018 19:43:01  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:43:01  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[text()=" 区域 "]/following-sibling::ul/li[1]/span
+ Tue, 11 Dec 2018 19:43:01  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[text()=" 区域 "]/following-sibling::ul/li[1]/span,起始时间：2018-12-11 19:43:01.878614,等待时长：0
+ Tue, 11 Dec 2018 19:43:01  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[text()=" 区域 "]/following-sibling::ul/li[1]/span 到可见区域
+ Tue, 11 Dec 2018 19:43:01  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[text()=" 区域 "]/following-sibling::ul/li[1]/span
+ Tue, 11 Dec 2018 19:43:03  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入详细地址"]
+ Tue, 11 Dec 2018 19:43:03  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入详细地址"],起始时间：2018-12-11 19:43:03.963148,等待时长：0
+ Tue, 11 Dec 2018 19:43:03  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//input[@placeholder="请输入详细地址"] 到可见区域
+ Tue, 11 Dec 2018 19:43:03  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入详细地址"]
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[@class="btn-bottom" and text()="保存"]
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[@class="btn-bottom" and text()="保存"],起始时间：2018-12-11 19:43:06.062132,等待时长：0
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[@class="btn-bottom" and text()="保存"] 到可见区域
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[@class="btn-bottom" and text()="保存"]
+ Tue, 11 Dec 2018 19:43:06  INFO test_address.py test_addresssuccess [ line:28 ] 开始断言
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py get_text [ line:177 ] 新增地址页面：获取元素xpath=//div[@class="header"]//span[text()="地址管理"] 的文本内容。
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[@class="header"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[@class="header"]//span[text()="地址管理"],起始时间：2018-12-11 19:43:06.141252,等待时长：0
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[@class="header"]//span[text()="地址管理"] 到可见区域
+ Tue, 11 Dec 2018 19:43:06  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[@class="header"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:43:06  INFO conftest.py login [ line:58 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:43:06  INFO conftest.py login [ line:40 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:43:08  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:43:08  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[@class="cellTitle"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:43:08  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10beb0048>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/element
+ Tue, 11 Dec 2018 19:43:08  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bebd1d0>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/element
+ Tue, 11 Dec 2018 19:43:08  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bebd3c8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/element
+ Tue, 11 Dec 2018 19:43:08  ERROR basepage.py wait_eleVisible [ line:25 ] 等待元素可见异常
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 171, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 79, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 69, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 196, in connect
+    conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 180, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x10bebdc50>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=52689): Max retries exceeded with url: /session/e6be6cbfac277d22f60a28e220986d4d/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bebdc50>: Failed to establish a new connection: [Errno 61] Connection refused',))
+ Tue, 11 Dec 2018 19:43:08  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bebd2e8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/screenshot
+ Tue, 11 Dec 2018 19:43:08  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bf01e48>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/screenshot
+ Tue, 11 Dec 2018 19:43:08  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bf01fd0>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/screenshot
+ Tue, 11 Dec 2018 19:43:08  ERROR basepage.py _save_screenShot [ line:218 ] 截图失败
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 171, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 79, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 69, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 196, in connect
+    conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 180, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x10bebdc50>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=52689): Max retries exceeded with url: /session/e6be6cbfac277d22f60a28e220986d4d/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bebdc50>: Failed to establish a new connection: [Errno 61] Connection refused',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 171, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 79, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 69, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 196, in connect
+    conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 180, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x10bf95160>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 215, in _save_screenShot
+    self.driver.save_screenshot(file_path)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 68, in request
+    **urlopen_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 89, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=52689): Max retries exceeded with url: /session/e6be6cbfac277d22f60a28e220986d4d/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10bf95160>: Failed to establish a new connection: [Errno 61] Connection refused',))
+ Tue, 11 Dec 2018 19:43:09  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cb5d0f0>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/screenshot
+ Tue, 11 Dec 2018 19:43:09  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cb5d278>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/screenshot
+ Tue, 11 Dec 2018 19:43:09  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cb5d2e8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d/screenshot
+ Tue, 11 Dec 2018 19:43:09  INFO conftest.py login [ line:58 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:43:09  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cb5d390>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d
+ Tue, 11 Dec 2018 19:43:09  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cb1a208>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d
+ Tue, 11 Dec 2018 19:43:09  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cb1a080>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e6be6cbfac277d22f60a28e220986d4d
+ Tue, 11 Dec 2018 19:44:59  INFO conftest.py login [ line:40 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:45:03.297151,等待时长：0
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入您的手机号"],起始时间：2018-12-11 19:45:03.419276,等待时长：0
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入您的手机号"] 到可见区域
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入您的手机号"]
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入密码"],起始时间：2018-12-11 19:45:03.564041,等待时长：0
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//input[@placeholder="请输入密码"] 到可见区域
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入密码"]
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//button[@class="mint-button mint-button--primary mint-button--large"],起始时间：2018-12-11 19:45:03.676855,等待时长：0
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py focus [ line:196 ] 登录页面_登录操作：滚动元素xpath=//button[@class="mint-button mint-button--primary mint-button--large"] 到可见区域
+ Tue, 11 Dec 2018 19:45:03  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//button[@class="mint-button mint-button--primary mint-button--large"]
+ Tue, 11 Dec 2018 19:45:05  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:05  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[@class="cellTitle"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:45:05  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[@class="cellTitle"]//span[text()="地址管理"],起始时间：2018-12-11 19:45:05.764769,等待时长：0
+ Tue, 11 Dec 2018 19:45:05  INFO basepage.py focus [ line:196 ] 个人中心页面：滚动元素xpath=//span[@class="cellTitle"]//span[text()="地址管理"] 到可见区域
+ Tue, 11 Dec 2018 19:45:05  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[@class="cellTitle"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:45:07  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:07  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[@class="btn-bottom"]
+ Tue, 11 Dec 2018 19:45:07  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[@class="btn-bottom"],起始时间：2018-12-11 19:45:07.863687,等待时长：0
+ Tue, 11 Dec 2018 19:45:07  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[@class="btn-bottom"] 到可见区域
+ Tue, 11 Dec 2018 19:45:07  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[@class="btn-bottom"]
+ Tue, 11 Dec 2018 19:45:09  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人姓名"]
+ Tue, 11 Dec 2018 19:45:09  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入收件人姓名"],起始时间：2018-12-11 19:45:09.965110,等待时长：0
+ Tue, 11 Dec 2018 19:45:09  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//input[@placeholder="请输入收件人姓名"] 到可见区域
+ Tue, 11 Dec 2018 19:45:09  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人姓名"]
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人手机号码"]
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入收件人手机号码"],起始时间：2018-12-11 19:45:10.062823,等待时长：0
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//input[@placeholder="请输入收件人手机号码"] 到可见区域
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入收件人手机号码"]
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[text()=" 请输入地区 "]
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[text()=" 请输入地区 "],起始时间：2018-12-11 19:45:10.180607,等待时长：0
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[text()=" 请输入地区 "] 到可见区域
+ Tue, 11 Dec 2018 19:45:10  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[text()=" 请输入地区 "]
+ Tue, 11 Dec 2018 19:45:12  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:12  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[text()="上海市"]
+ Tue, 11 Dec 2018 19:45:12  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//span[text()="上海市"],起始时间：2018-12-11 19:45:12.274048,等待时长：0
+ Tue, 11 Dec 2018 19:45:12  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//span[text()="上海市"] 到可见区域
+ Tue, 11 Dec 2018 19:45:12  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//span[text()="上海市"]
+ Tue, 11 Dec 2018 19:45:14  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:14  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[text()=" 市区 "]/following-sibling::ul//span[1]
+ Tue, 11 Dec 2018 19:45:14  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[text()=" 市区 "]/following-sibling::ul//span[1],起始时间：2018-12-11 19:45:14.364926,等待时长：0
+ Tue, 11 Dec 2018 19:45:14  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[text()=" 市区 "]/following-sibling::ul//span[1] 到可见区域
+ Tue, 11 Dec 2018 19:45:14  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[text()=" 市区 "]/following-sibling::ul//span[1]
+ Tue, 11 Dec 2018 19:45:16  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:16  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[text()=" 区域 "]/following-sibling::ul/li[1]/span
+ Tue, 11 Dec 2018 19:45:16  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[text()=" 区域 "]/following-sibling::ul/li[1]/span,起始时间：2018-12-11 19:45:16.449716,等待时长：0
+ Tue, 11 Dec 2018 19:45:16  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[text()=" 区域 "]/following-sibling::ul/li[1]/span 到可见区域
+ Tue, 11 Dec 2018 19:45:16  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[text()=" 区域 "]/following-sibling::ul/li[1]/span
+ Tue, 11 Dec 2018 19:45:18  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//input[@placeholder="请输入详细地址"]
+ Tue, 11 Dec 2018 19:45:18  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//input[@placeholder="请输入详细地址"],起始时间：2018-12-11 19:45:18.533591,等待时长：0
+ Tue, 11 Dec 2018 19:45:18  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//input[@placeholder="请输入详细地址"] 到可见区域
+ Tue, 11 Dec 2018 19:45:18  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//input[@placeholder="请输入详细地址"]
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[@class="btn-bottom" and text()="保存"]
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[@class="btn-bottom" and text()="保存"],起始时间：2018-12-11 19:45:20.638125,等待时长：0
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[@class="btn-bottom" and text()="保存"] 到可见区域
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[@class="btn-bottom" and text()="保存"]
+ Tue, 11 Dec 2018 19:45:20  INFO test_address.py test_addresssuccess [ line:28 ] 开始断言
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py get_text [ line:177 ] 新增地址页面：获取元素xpath=//div[@class="header"]//span[text()="地址管理"] 的文本内容。
+ Tue, 11 Dec 2018 19:45:20  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//div[@class="header"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:45:21  INFO basepage.py wait_eleVisible [ line:22 ] 等待元素可见：//div[@class="header"]//span[text()="地址管理"],起始时间：2018-12-11 19:45:20.719066,等待时长：0
+ Tue, 11 Dec 2018 19:45:21  INFO basepage.py focus [ line:196 ] 新增地址页面：滚动元素xpath=//div[@class="header"]//span[text()="地址管理"] 到可见区域
+ Tue, 11 Dec 2018 19:45:21  INFO basepage.py find_element [ line:50 ] 开始查找元素：xpath=//div[@class="header"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:45:21  INFO conftest.py login [ line:58 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:45:21  INFO conftest.py login [ line:40 ] ----------------测试开始-----------------
+ Tue, 11 Dec 2018 19:45:23  INFO basepage.py click_element [ line:102 ] 执行点击操作！
+ Tue, 11 Dec 2018 19:45:23  INFO basepage.py find_element_wait_and_focus [ line:61 ] 开始查找元素：xpath=//span[@class="cellTitle"]//span[text()="地址管理"]
+ Tue, 11 Dec 2018 19:45:23  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1085f8048>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/element
+ Tue, 11 Dec 2018 19:45:23  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108605ba8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/element
+ Tue, 11 Dec 2018 19:45:23  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108605470>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/element
+ Tue, 11 Dec 2018 19:45:23  ERROR basepage.py wait_eleVisible [ line:25 ] 等待元素可见异常
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 171, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 79, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 69, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 196, in connect
+    conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 180, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1086055c0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=53287): Max retries exceeded with url: /session/e8b81f387c36e6b939433370ec38a37b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1086055c0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+ Tue, 11 Dec 2018 19:45:23  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108605cf8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/screenshot
+ Tue, 11 Dec 2018 19:45:23  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108648e48>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/screenshot
+ Tue, 11 Dec 2018 19:45:23  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x108648fd0>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/screenshot
+ Tue, 11 Dec 2018 19:45:23  ERROR basepage.py _save_screenShot [ line:218 ] 截图失败
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 171, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 79, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 69, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 196, in connect
+    conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 180, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1086055c0>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 19, in wait_eleVisible
+    WebDriverWait(self.driver, wait, requence).until(EC.visibility_of_element_located((by, locator)))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 71, in until
+    value = method(self._driver)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 72, in request
+    **urlopen_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 150, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=53287): Max retries exceeded with url: /session/e8b81f387c36e6b939433370ec38a37b/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1086055c0>: Failed to establish a new connection: [Errno 61] Connection refused',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 171, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 79, in create_connection
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/connection.py", line 69, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 1026, in _send_output
+    self.send(msg)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/client.py", line 964, in send
+    self.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 196, in connect
+    conn = self._new_conn()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connection.py", line 180, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x1086dc160>: Failed to establish a new connection: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lx/Desktop/workspace/gti2/test0920/Common/basepage.py", line 215, in _save_screenShot
+    self.driver.save_screenshot(file_path)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1055, in save_screenshot
+    return self.get_screenshot_as_file(filename)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1032, in get_screenshot_as_file
+    png = self.get_screenshot_as_png()
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1064, in get_screenshot_as_png
+    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 1074, in get_screenshot_as_base64
+    return self.execute(Command.SCREENSHOT)['value']
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py", line 397, in _request
+    resp = self._conn.request(method, url, body=body, headers=headers)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 68, in request
+    **urlopen_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/request.py", line 89, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/poolmanager.py", line 322, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=53287): Max retries exceeded with url: /session/e8b81f387c36e6b939433370ec38a37b/screenshot (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1086dc160>: Failed to establish a new connection: [Errno 61] Connection refused',))
+ Tue, 11 Dec 2018 19:45:24  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10929e320>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/screenshot
+ Tue, 11 Dec 2018 19:45:24  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10929e278>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/screenshot
+ Tue, 11 Dec 2018 19:45:24  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10929e2b0>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b/screenshot
+ Tue, 11 Dec 2018 19:45:24  INFO conftest.py login [ line:58 ] ----------------测试结束-----------------
+ Tue, 11 Dec 2018 19:45:24  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10929e3c8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b
+ Tue, 11 Dec 2018 19:45:24  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10925b0b8>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b
+ Tue, 11 Dec 2018 19:45:24  WARNING connectionpool.py urlopen [ line:662 ] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10925b198>: Failed to establish a new connection: [Errno 61] Connection refused',)': /session/e8b81f387c36e6b939433370ec38a37b
