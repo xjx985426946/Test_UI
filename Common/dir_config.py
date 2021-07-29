@@ -19,5 +19,5 @@ case_dir = os.path.join(project_dir,'TestCase')
 # logs_dir = os.path.join(project_dir,'logs')
 
 # 截图
-screenshot_dir = os.path.join(project_dir,'ScreenShot')
+screenshot_dir = os.path.join(project_dir, 'ScreenShot')
 
