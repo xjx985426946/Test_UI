@@ -2,7 +2,7 @@ from Common import dir_config
 import time
 import logging
 from PIL import Image
-import pytesseract
+from pytesseract import image_to_string
 
 
 def save_screenShot(driver, model_name="model"):
@@ -23,7 +23,7 @@ def save_screenShot(driver, model_name="model"):
 def ocr():
     im = Image.open('test.png')
     imgry = im.convert("L")
-    threshold = 200
+    threshold = 140
     table = []
     for i in range(256):
         if i < threshold:
@@ -33,8 +33,6 @@ def ocr():
     out = imgry.point(table, '1')
     out.show()
 
-    aa = pytesseract.image_to_string(out, lang='chi_sim')
+    aa = image_to_string(out)
     print(aa)
 
-
-ocr()
